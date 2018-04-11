@@ -1,0 +1,20 @@
+/**************************
+* Sup thème
+* imge url background: url(../images/header.png);
+**************************/
+
+/* Pour test: enlève le titre du site */
+.site-title a {
+	/*display: none;*/
+	color:green;
+} 
+.woocommerce ul.products li.product .woocommerce-loop-category__title,.woocommerce ul.products li.product .woocommerce-loop-product__title,.woocommerce ul.products li.product h3 {
+    font-size: .8em;
+    color : orange;
+}
+
+.woocommerce ul.products li.product a img {
+    margin: 0;
+}
+
+
